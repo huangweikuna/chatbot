@@ -2,3 +2,8 @@
 
 # 本地环境下debug模式为开启
 DEBUG = True
+
+EVENT_TOKEN = ""
+APP_KEY = ""
+APP_SECRET = ""
+

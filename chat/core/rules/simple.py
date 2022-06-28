@@ -7,7 +7,3 @@ class SimpleRule(Rule):
 
     def call(self, msg):
         pass
-
-    def get_order(self) -> int:
-        return 1
-
